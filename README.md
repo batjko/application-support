@@ -3,7 +3,7 @@ Introduction To Application Support
 
 This repository is a placeholder for a collaborative book on Application Support for new and seasoned ***AppSupp*** professionals, and additional resources.
 
-Feel free to suggest chapters or paragraphs, utilities and other helpful resources.
+Feel free to suggest new chapters, paragraphs, utilities and other helpful resources.
 
 Preliminary list of chapters
 ----------------------------

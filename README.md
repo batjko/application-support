@@ -5,6 +5,7 @@ This repository is a placeholder for a collaborative book on Application Support
 
 Feel free to suggest new chapters, paragraphs, utilities and other helpful resources.
 
+
 Preliminary list of chapters
 ----------------------------
 
@@ -20,11 +21,12 @@ Preliminary list of chapters
 
 ##### 6. Know Your Tools - Tricks Of The Trade
 
-##### 7. Constant Improvement - Becoming the Go-To Guy/Gal
+##### 7. Constant Improvement - DevOps and Agile
 
 ##### 8. Taking Charge - With Great Power...
 
 ##### 9. Like A Boss - How To Run This Pig Pen
+
 
 Links
 -----

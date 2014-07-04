@@ -3,10 +3,10 @@ Introduction To Application Support
 
 This repository is a placeholder for a collaborative book on Application Support for new and seasoned ***AppSupp*** professionals, and additional resources.
 
-Feel free to suggest new chapters, paragraphs, utilities and other helpful resources.
+Feel free to suggest new chapters, paragraphs, utilities and other helpful resources. Or write entire sections and chapters. In the end this should really represent the collective experience of as many Application Support experts as possible.
 
-Preliminary list of chapters
-----------------------------
+Chapters
+--------
 
 ##### 1. [Introduction - So You Got Yourself An AppSupp Job...](./1. Introduction/README.md)
 

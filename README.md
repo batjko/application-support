@@ -27,10 +27,7 @@ Preliminary list of chapters
 
 ##### 9. Like A Boss - How To Run This Pig Pen
 
+##### Resources - Links and Scripts 'n stuff.
 
-Links
------
-
-[...]
 
 ***TODO:*** bloody everything...

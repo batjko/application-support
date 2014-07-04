@@ -12,7 +12,7 @@ Preliminary list of chapters
 
 ##### 2. [Know Yourself - Seriously, Who Does This?](./2. Know Yourself/README.md)
 
-##### 3. [Know Your Business - Who Needs You?](./3. Know Your Business/README.md)
+##### 3. [Know Your Business - Who Needs You, anyway?](./3. Know Your Business/README.md)
 
 ##### 4. [Know Your Team - Who You're Gonna Call?](./4. Know Your Team/README.md)
 
